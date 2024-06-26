@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingsley-developer
 - 👀 I’m a software developer and web developer
-- 🌱 I use C++, C#, Python, JS, TS, Java, Kotlin, Assembly programming languages
+- 🌱 I use Javascript, Typescript, Go, Python and Ruby programming languages
 - 💞️ I’m looking to collaborate on any project that relates to software and web development
 - 📫 Please follow me and let collaborate
 
